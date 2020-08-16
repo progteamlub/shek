@@ -5,6 +5,7 @@ code = "termux_lab"
 os.system ('toilet -f big -F metal "PT - lub"')
 os.system ('toilet -f big -F gay "Chek"')
 print("""
+Разработка его: https://github.com/termux-lab
 <1> - Искать информацию
 <2> - Добавить информацию
 """)
